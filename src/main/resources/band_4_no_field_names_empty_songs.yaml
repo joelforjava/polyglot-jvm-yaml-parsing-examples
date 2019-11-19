@@ -1,0 +1,13 @@
+!!com.joelforjava.kotlin.Band4
+- Led Zeppelin
+- !!java.util.List
+  - !!com.joelforjava.kotlin.Album4
+    - Houses of the Holy
+    - 1973
+    - Atlantic
+    - []
+  - !!com.joelforjava.kotlin.Album4
+    - Physical Grafitti
+    - 1975
+    - Atlantic
+    - []

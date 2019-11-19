@@ -1,0 +1,7 @@
+!!com.joelforjava.kotlin.Album4
+name: Houses of the Holy
+releaseYear: 1973
+label: Atlantic
+tracks: !!java.util.List
+  - !!com.joelforjava.kotlin.Song4 The Song Remains the Same
+  - !!com.joelforjava.kotlin.Song4 The Rain Song

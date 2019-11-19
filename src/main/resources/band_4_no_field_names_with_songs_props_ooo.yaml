@@ -1,0 +1,17 @@
+!!com.joelforjava.kotlin.Band4
+- Led Zeppelin
+- !!java.util.List
+  - !!com.joelforjava.kotlin.Album4
+    - Atlantic
+    - 1973
+    - Houses of the Holy
+    - !!java.util.List
+      - !!com.joelforjava.kotlin.Song4 No Quarter
+      - !!com.joelforjava.kotlin.Song4 Over the Hills and Far Away
+  - !!com.joelforjava.kotlin.Album4
+    - Atlantic
+    - 1975
+    - Physical Grafitti
+    - !!java.util.List
+      - !!com.joelforjava.kotlin.Song4 Kashmir
+      - !!com.joelforjava.kotlin.Song4 Houses of the Holy

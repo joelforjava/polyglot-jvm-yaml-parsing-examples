@@ -1,0 +1,32 @@
+name: Fleetwood Mac
+albums:
+  - name: Rumours
+    releaseYear: 1977
+    label: Warner Bros.
+    tracks:
+      - Second Hand News
+      - Dreams
+      - Never Going Back Again
+      - Don't Stop
+      - Go Your Own Way
+      - Songbird
+      - The Chain
+      - You Make Loving Fun
+      - I Don't Want to Know
+      - Oh Daddy
+      - Gold Dust Woman
+  - name: Fleetwood Mac
+    releaseYear: 1975
+    label: Reprise
+    tracks:
+      - Monday Morning
+      - Warm Ways
+      - Blue Letter
+      - Rhiannon
+      - Over My Head
+      - Crystal
+      - Say You Love Me
+      - Landslide
+      - World Turning
+      - Sugar Daddy
+      - I'm So Afraid

@@ -1,0 +1,14 @@
+name: The Who
+albums:
+  - name: My Generation
+    releaseYear: 1965
+    label: Brunswick
+  - name: Tommy
+    releaseYear: 1969
+    label: Decca
+  - name: Who's Next?
+    releaseYear: 1971
+    label: Decca
+  - name: Quadrophenia
+    releaseYear: 1973
+    label: MCA

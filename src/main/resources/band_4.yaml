@@ -1,0 +1,9 @@
+!!com.joelforjava.kotlin.Band4
+name: Led Zeppelin
+albums:
+  - name: Houses of the Holy
+    releaseYear: 1973
+    label: Atlantic
+  - name: Physical Grafitti
+    releaseYear: 1975
+    label: Atlantic
